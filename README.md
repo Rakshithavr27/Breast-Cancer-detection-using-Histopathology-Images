@@ -3,15 +3,15 @@
 
 ### Directory Structure
 
-|--BCI_dataset  
-	|--HE
-	       |--train
-	       |--test
-	|--IHC  
-	       |--train
-	       |--test
-	README.md
-
+BCI_dataset
+│
+├── HE
+│ ├── train
+│ └── test
+│
+└── IHC
+├── train
+└── test
 ### Statistics
 
 Our BCI dataset contains 9746 images (4873 pairs), 3896 pairs for train and 977 for test.  
